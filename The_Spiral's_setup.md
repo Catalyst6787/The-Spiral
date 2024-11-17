@@ -1,0 +1,1 @@
+This site is run on Wordpress in docker compose on a PC in my closet. I run Traefik to proxy to internet and get SSL.
